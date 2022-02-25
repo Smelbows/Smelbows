@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sarah 👋
 
-# I'm a Stockholm based developer looking for my first junior dev position. 🥳 I've just completed an intensive 24 week frontend/fullstack Boot Camp with [Technigo] (https://github.com/Technigo), focussing on Javascript, React, Redux, Node.js, HTML, CSS, Express.js and MongoDB.
+I'm a Stockholm based developer looking for my first junior dev position. 🥳 I've just completed an intensive 24 week frontend/fullstack Boot Camp with [Technigo] (https://github.com/Technigo), focussing on Javascript, React, Redux, Node.js, HTML, CSS, Express.js and MongoDB.
 
 ## Personal highlights of the course
 - Agile methodology.
